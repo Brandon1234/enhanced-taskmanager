@@ -1,0 +1,12 @@
+conn_cache.pkl
+verifier_cache.pkl
+MVC/__pycache__/__init__.cpython-311.pyc
+MVC/__pycache__/PandasTableModel.cpython-311.pyc
+Sensors/__pycache__/__init__.cpython-311.pyc
+Sensors/__pycache__/ProcessSensor.cpython-311.pyc
+ui/__init__.pyc
+verifier_cache.pkl
+conn_cache.pkl
+ui/ui.pyc
+ui/__pycache__/__init__.cpython-311.pyc
+ui/__pycache__/ui.cpython-311.pyc
